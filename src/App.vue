@@ -1,6 +1,6 @@
 <template lang='pug'>
 #app
-  img(src='./assets/logo.png')
+  img(src='https://olguin-jv.github.io/Vue-Basics/dist/logo.png')
   h1 Platzi Music
 
   select(v-model="selectedCountry")
